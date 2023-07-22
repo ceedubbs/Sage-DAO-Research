@@ -1,3 +1,4 @@
+Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4099906
 
 > Berg, Davidson and Potts (2019a,b) and Davidson, De Filippi and Potts (2018) argue that blockchain technology and smart contracts suppress opportunism
 
@@ -27,6 +28,28 @@ From Shleifer and Vishny (1997):
 
 - Agency cost = monitoring costs + bonding costs + residual loss
 - Jenson (1993) Argued that 4 forces controls the alignment of principal and agent in firms: Capital markets, political and regulatory systems, product and factor markets, and international control systems.
+-
+- (Fama and Jenson 1983b) Decision management = proposal initiation -> implementation. Decision control = proposal approval -> monitoring
+	- Management -> decision management
+	- Board -> decision control
+
+From Fama and Jensen (1983b):
+
+>An organization is the nexus of contracts, written and unwritten, among owners of factors of production and customers. These contracts or internal ‘’rules of the game” specify the rights of each agent in the organization, performance criteria on which agents are evaluated, and the payoff functions they face. … The central contracts in any organization specify (1) the nature of residual claims and (2) the allocation of the steps of the decision process among agents.
+
+Notes: DAOs too is a nexus of contracts-smart contracts, but inevitably incomplete
+
+==**Maladaptation:** Mismatch in contracting when real-world circumstances change, which would necessitate re-negotiation. ==
+
+==**Hold-up Problems:** Exploitation/opportunism that happens during the renegotiation of contracts==
+
+- Smart Contracts and mitigate opportunism, but doesn't prevent maladaptation and hold-up problems
+	- Governance mechanisms need to be in place to address these incompletenesses
+
+- Who gets to "monitor the nexus of smart contracts" to amend software bugs and attacks?
+
+- 
+
 
 
 

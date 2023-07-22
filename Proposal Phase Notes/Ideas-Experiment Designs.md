@@ -1,3 +1,4 @@
+*GPT-4 Inspired*
 
 **1. Environment Setting:**
 
@@ -19,8 +20,6 @@ The key element you're testing here is the level of transparency in the DAO's op
 
 **4. Outcome Variables:**
 
-You can measure similar outcomes to those suggested for the field experiment.
-
 a. **Decision-Making Alignment:** Analyze the decisions made within each DAO to assess their alignment with the DAO's stated objective.
 
 b. **Financial Alignment:** In the context of the simulated DAO, measure the financial outcomes of decisions and their alignment with the common good of the DAO members.
@@ -28,7 +27,5 @@ b. **Financial Alignment:** In the context of the simulated DAO, measure the fin
 c. **Conflict Incidence:** Track instances of disagreement or conflict within each DAO.
 
 d. **Member Satisfaction:** Conduct pre- and post-experiment surveys to measure changes in participant satisfaction.
-
-Again, remember to account for the ethical considerations of running such an experiment, including ensuring participants' consent and their understanding of their involvement in the experiment. You also want to consider how to incentivize participation in a way that simulates real-world stakes without introducing undue risk to participants.
 
 
