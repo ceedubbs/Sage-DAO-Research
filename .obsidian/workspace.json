@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "2b7b15331296f8bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd93df4dd51f5c41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4afcd7930cb594",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f3b7f61dd1cf732",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Screen Shot 2023-07-18 at 2.40.07 PM.png"
+              }
+            }
+          },
+          {
+            "id": "e18f7d3a9e3838c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal Phase Notes/Notes-Exploring DAOs as a New Kind of Institution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7f28b77a8fb14ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal Phase Notes/Notes-Exploring DAOs as a New Kind of Institution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c121514ace0d5f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal Phase Notes/Notes-A Simple Principle-Agent Experiment For The Classroom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df5b63b6035d1d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal Phase Notes/Notes-A Simple Principle-Agent Experiment For The Classroom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e94e9ecacdcc91f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal Phase Notes/Notes-A Simple Principle-Agent Experiment For The Classroom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "395e319cb6b93fc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal Phase Notes/Notes-Exploring DAOs as a New Kind of Institution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5af1c827c03de61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal Phase Notes/Ideas-Isolating DAO Factors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d965657764ee0ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal Phase Notes/Ideas-Isolating DAO Factors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02864831651d01e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal Phase Notes/Notes-7-19-MetaGov Seminar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72dd82db5167776d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal Phase Notes/Notes-Corporate Governance in a Crypto World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14ab20f5e4ccd214",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa6f842383ba9cd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6722ca7663d531",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20d4a93bae36a44a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91cfaa8142a9d71a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fae694dc333051f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f71874f3ad6de67f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e0a1c2f859560c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Proposal Phase Notes/Notes-Corporate Governance in a Crypto World.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e7fe4048a4735e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Proposal Phase Notes/Notes-Corporate Governance in a Crypto World.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "329b88ac46975870",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47038ac7cca9eda6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Proposal Phase Notes/Notes-Corporate Governance in a Crypto World.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "72dd82db5167776d",
+  "lastOpenFiles": [
+    "Proposal Phase Notes/Notes-An Analysis of the Principle-Agent Problem.md",
+    "Proposal Phase Notes/Notes-A Simple Principle-Agent Experiment For The Classroom.md",
+    "Proposal Phase Notes/Ideas-Isolating DAO Factors.md",
+    "Proposal Phase Notes/Ideas-On Smart Contract Enforcement Question.md",
+    "Untitled.canvas",
+    "Proposal Phase Notes/Notes-7-19-MetaGov Seminar.md",
+    "Proposal Phase Notes/Ideas-Experiment Designs.md",
+    "Proposal Phase Notes/Notes-Constitutions of Web3.md",
+    "Proposal Phase Notes/Notes-Corporate Governance and Blockchains.md",
+    "Proposal Phase Notes/Notes-Corporate Governance in a Crypto World.md",
+    "Proposal Phase Notes/Notes-Exploring DAOs as a New Kind of Institution.md",
+    "Proposal Phase Notes/Notes-Repeated Principal-Agent Games with Discounting.md",
+    "Media/grossman1992.pdf",
+    "Media/Unconfirmed 7524.crdownload",
+    "Proposal Phase Notes/test.md",
+    "Media",
+    "Proposal Phase Notes",
+    "Media/Screen Shot 2023-07-18 at 2.40.07 PM.png",
+    "Media/Screen Shot 2023-07-18 at 2.36.08 PM.png",
+    "Media/Screen Shot 2023-07-18 at 2.35.15 PM.png",
+    "Screen Shot 2023-07-18 at 2.35.02 PM.png",
+    "Screen Shot 2023-07-18 at 2.34.06 PM.png"
+  ]
+}
