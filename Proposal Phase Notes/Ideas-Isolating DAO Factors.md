@@ -1,4 +1,4 @@
-how - Completely transparent financial movement
+- Completely transparent financial movement
 	- One funds are moved away from treasury into subcommittees, actions are often unmonitored, unless you also create an environment where subcommittees are also monitored. Sub Daos
 	- Cost of monitoring is costly - [[Notes-Repeated Principal-Agent Games with Discounting]]
 	- Decentralized decision making-funds are often distributed after varied action, cost is efficiency. Agent also bears cost of fulfillment - [[Notes-Repeated Principal-Agent Games with Discounting]]  

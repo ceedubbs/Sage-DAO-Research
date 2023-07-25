@@ -1,5 +1,9 @@
 Link: https://constitutions.metagov.org/article
 
+**Abstract**
+
+>In this paper, we conduct an analysis of 19 DAO constitutions, observe a number of common patterns, and provide a set of recommendations to support the crafting and dissemination of future DAO constitutions. The text of these constitutions vary from 300-word blog posts to to 30-page legal charters, reflecting the variety of intended audiences, maturity of community, and document purpose. However, despite their differences, each constitution can be productively understood as part of a broader discourse around governance within the emerging DAO ecosystem.
+
 Uniqueness of new age DAO constitutions: 
 1. The documents guide communities that manage more assets than before
 2. Smart contracts are used to enforce these constitutions

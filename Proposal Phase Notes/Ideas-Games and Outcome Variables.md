@@ -3,6 +3,7 @@
 One player (the principal) receives an endowment that they can choose to keep or send to the second player (the agent). The amount sent to the agent is then multiplied, and the agent decides how much to return to the principal. The levels of transparency can be varied as follows:
 
 - **Low transparency:** The principal does not know how much the initial endowment was multiplied by before it was given to the agent.
+
 - **High transparency:** The principal knows the multiplication factor and can calculate the maximum possible return.
 
 **2. Public Goods Game:**
@@ -18,6 +19,9 @@ The principal hires the agent to perform a task. The agent has private informati
 
 - **Low transparency:** The agent's cost/effort information is private.
 - **High transparency:** The agent's cost/effort information is visible to the principal.
+
+Outcome Variable: 
+- Level of effort exerted by the agent in the Principal-Agent Game
 
 Potential outcome variables:
 - Amount sent back by the agent in the Trust Game

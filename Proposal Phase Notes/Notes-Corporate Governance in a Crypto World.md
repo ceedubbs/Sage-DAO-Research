@@ -1,5 +1,9 @@
 Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4099906
 
+**Abstract:**
+
+>This paper explores the nature of governance both within and by blockchains and the economies they support. There is a widespread assumption that the proper governance model for these economies is political, i.e., democratic voting. In this paper we make an alternative claim, namely that a more accurate model for blockchain governance is as a species of corporate governance. Political and corporate governance are similar, but they solve different problems with different incentives. Political governance, at its base, seeks to create legitimacy for coercive acts. Corporate governance is about solving agency problems with voluntary agreement. We explain why corporate governance is more like the latter, and in so doing draw out some of the lessons of the theory of modern corporate governance that might then usefully apply to the design of blockchain governance mechanisms.
+
 > Berg, Davidson and Potts (2019a,b) and Davidson, De Filippi and Potts (2018) argue that blockchain technology and smart contracts suppress opportunism
 
 - This paper argues that corperate governance mechanisms are more appropriate for governing blockchains

@@ -1,5 +1,9 @@
-https://link.springer.com/chapter/10.1007/978-94-015-7957-5_16
-[[grossman1992.pdf]]
+
+[[AN ANALYSIS OF THE PRINCIPAL-AGENT PROBLEM.pdf]]
+
+**Abstract**
+
+>Most analyses of the principal-agent problem assume that the principal chooses an incentive scheme to maximize expected utility subject to the agent’s utility being at a stationary point. An important paper of Mirrlees has shown that this approach is generally invalid. We present an alternative procedure. If the agent’s preferences over income lotteries are independent of action, we show that the optimal way of implementing an action by the agent can be found by solving a convex programming problem. We use this to characterize the optimal incentive scheme and to analyze the determinants of the seriousness of an incentive problem.
 
 **Principle Agent Problem**: when the agent is able to make decisions on behalf of the principle, and their interests are not perfectly aligned
 - ex: a company's shareholders are looking to maximize profits, while the managers are looking to grow the business, posing conflicting short term interests

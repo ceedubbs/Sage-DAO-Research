@@ -1,0 +1,15 @@
+- Digital work experience 
+- Find common tasks in the workplace
+	- Data analysis task?
+		- Looking at data and changing numbers
+	- Reading task?
+- Where these is less robust information environment  
+- How to manage the burden: wage
+	- Shifting the runt from worker to employer, prevents shirking, but increases wage
+- Include option to express opinion on wage
+- Degrees of transparency and correlated increase in wages
+- Action item: 
+	- Keep looking at experiment design
+	- Propose concrete experimental design
+	- Concrete research question
+	- Find existing lit in the field on online work

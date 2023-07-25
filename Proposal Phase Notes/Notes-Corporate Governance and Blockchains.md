@@ -1,5 +1,9 @@
 Link: https://academic.oup.com/rof/article/21/1/7/2888422
 
+**Abstract**
+
+>Blockchains represent a novel application of cryptography and information technology to age-old problems of financial record-keeping, and they may lead to far-reaching changes in corporate governance. Many major players in the financial industry have began to invest in this new technology, and stock exchanges have proposed using blockchains as a new method for trading corporate equities and tracking their ownership. This essay evaluates the potential implications of these changes for managers, institutional investors, small shareholders, auditors, and other parties involved in corporate governance. The lower cost, greater liquidity, more accurate record-keeping, and transparency of ownership offered by blockchains may significantly upend the balance of power among these cohorts.
+
 For Managers:
 - Transparent managerial ownership
 - Managerial asset flow is trackable

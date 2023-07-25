@@ -1,5 +1,9 @@
 Link:https://medium.com/commonsstack/exploring-daos-as-a-new-kind-of-institution-8103e6b156d4
 
+**Abstract:**
+>_DAOs, or_ [_decentralized autonomous organizations_](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)_, are technical tools written in code and run on blockchains, but they are also_ **_a new kind of social institution_**_. Early explorations of DAOs focused more on their technical development and less on their social implications, leading to a series of failures that exposed the limitations of a rigid, “_[_code is law_](https://www.coindesk.com/code-is-law-not-quite-yet)_” approach to the design of DAOs. In this article, we explore a more holistic approach to DAOs, one that integrates technical engineering with social design. We call this approach the institutional view._
+
+
 -Institutions: stable patterns for regulating human behavior
 
 -Computational Constitution: "the portion of a constitution which is made up of software" 
