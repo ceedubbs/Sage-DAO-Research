@@ -31,9 +31,13 @@ The study will involve 'n' rounds over a span of 2 days and requires approximate
 Please take the following tests and record your scores. These assessments help us gauge baseline abilities relevant to the study.
 
 - Briggs Meyers Test: ____________
+	- https://www.truity.com/test/type-finder-personality-test-new
 - Typing Test: ____________
+	- https://www.typing.com/student/tests (1 minute)
 - Big Three Morality Test: ____________
-- Divergent Association Test: ____________ _(Please describe the test and why it is relevant to the study)_
+	- https://www.idrlabs.com/morality/3/test.php
+- Divergent Association Test: ____________ 
+	- https://www.datcreativity.com/
 
 **Section 4: Availability and Preferences**
 
