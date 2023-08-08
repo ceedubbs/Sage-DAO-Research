@@ -45,7 +45,6 @@ The game introduces a variety of transparency and monitoring conditions under wh
 
  _Procedure:_ The agent will be given a set amount of time to develop and write up their product idea. They must also explain how the product meets the given criteria.
 
-
  _Metrics:_ A panel of independent evaluators will review each product idea using a standardized scoring system.
 
 	- Novelty (1-5): How new and unique is the idea? Does it offer something different from existing products?
@@ -85,7 +84,6 @@ The game introduces a variety of transparency and monitoring conditions under wh
  3. **Low Monitoring, High Transparency:** The agent makes the decision independently, but they are asked to document their moral reasoning process and effort level.
     
  4. **High Monitoring, High Transparency:** The agent's decision-making process is monitored (e.g., through screen sharing or recording), and they are also asked to document their moral reasoning process and effort level.
-
 
 #### **Baseline Assessment and Outcome Variables**
 Before the experiment, agents are assessed to gauge their baseline ability levels. The outcome variables that we monitor are:

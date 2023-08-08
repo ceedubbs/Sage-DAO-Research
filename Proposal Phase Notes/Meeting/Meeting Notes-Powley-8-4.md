@@ -1,0 +1,33 @@
+- Stan Korsmeyer
+- In papers, he's just selling his ideas to the world. 
+- Lit review, is just the sales. Here's how my paper compares to the rest, and why my contribution is the best. 
+	-Be humble, be authentic in the impact of your paper
+		-Here is where I'll be able to contribute, here is what I wont
+	-Include limitations of your paper (resources, analysis, external validity), and how you address it
+	-Watch Powley's lit review video
+	-Lit review is why its important to ask and answer the question
+
+ - Before starting experimentation, what statistical analysis are you going to run. 
+	 -Route work, creativity, moral decision making
+		 -Measuring level of impact from each
+	-Robustness test
+		-Shirking, burning out workforce
+			-Amazon as case study
+		-case study help readers understands
+		-Mechanism that you're actively employing 
+		-Over an extended period of time
+
+Controls:
+	-Age, abilities, 
+	-Individual fixed effects
+	-How good are people are route work, creativity, morality
+		-Personality tests- Myer's Briggs
+- Create a survey to find participants
+	- Level of education
+	- SAT Score
+	- Occupation
+	- Age
+	- Reading Capability
+	- 
+- People to assess creativity and morality\
+- https://link.springer.com/article/10.1007/s10683-011-9275-7
